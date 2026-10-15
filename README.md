@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm a Developer Intern 👋
 
-<!--
-**PunnaphatDev/PunnaphatDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer Intern | Learning and Growing Every Day**
 
-Here are some ideas to get you started:
+I'm a Computer Science student currently doing an internship in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm still learning and building my skills step by step. I believe that the best way to improve is by practicing, building projects, learning from mistakes, and gaining real-world experience.
+
+### 🌱 Currently Focusing On
+
+- Learning software development through hands-on experience
+- Improving my frontend and backend development skills
+- Understanding how to write clean, maintainable code
+- Learning from teammates and collaborating on projects
+- Continuously improving my problem-solving skills
+
+### 🛠️ Technologies I'm Learning
+
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** SQLite
+- **Tools:** Git, GitHub, VS Code
+
+### 🎯 My Goal
+
+To become a better software developer by staying curious, practicing consistently, and learning something new every day.
+
+I'm not an expert yet, but I'm willing to learn, improve, and take on new challenges.
+
+---
+
+*One step at a time. One project at a time. Always learning. 🚀*
