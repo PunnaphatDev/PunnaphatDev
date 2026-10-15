@@ -4,8 +4,12 @@ I'm a Computer Science student currently doing a software development internship
 
 🌱 Currently focusing on improving my frontend and backend development skills and learning better coding practices.
 
-🛠️ Tech Stack: HTML, CSS, JavaScript, Node.js, Express.js, SQLite, Git & GitHub.
+🛠️ **Tech Stack**
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** SQLite
+- **Tools:** Git, GitHub, VS Code
 
-📫 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+📫 GitHub: [@PunnaphatDev](https://github.com/PunnaphatDev)
 
 *Always learning, building, and growing. 🚀*
